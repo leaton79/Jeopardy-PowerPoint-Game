@@ -1,5 +1,7 @@
 # Excel to Jeopardy `.pptm`
 
+**Notice:** This project was created with the assistance of GenAI tools. It should be carefully reviewed and independently inspected before being used in any production, security-sensitive, or otherwise critical context.
+
 Generate an interactive Jeopardy-style PowerPoint from a spreadsheet.
 
 This project exists because a plain `.pptx` cannot maintain true cumulative arbitrary-order board state during slideshow runtime. To make the board clear clues permanently in any order, the final output must be a macro-enabled `.pptm`.
